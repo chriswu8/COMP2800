@@ -1,1 +1,1 @@
-"# COMP2800" 
+"Conflict and Dialectics" 
