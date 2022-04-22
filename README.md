@@ -10,9 +10,9 @@ Team Members:
 
 Upcoming Due Dates (subject to change):
 
-Apr 29, 2022 11:59 PM - Cheating and plagiarism pledge (Assignment)
-
 Apr 29, 2022 6:00 PM - Quiz 1 (sprint 1 individual retrospective)
+
+Apr 29, 2022 11:59 PM - Cheating and plagiarism pledge (Assignment)
 
 May 4, 2022 6:00 PM - Git Quiz
 
