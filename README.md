@@ -26,3 +26,13 @@ May 27, 2022 11:59 PM - Quiz 5 (sprint 5 individual retrospective)
 
 May 27, 2022 6:00 PM - Final Checkpoint on Individual Contribution
 
+
+
+Attributions:
+1.
+2.
+3.
+4.
+
+00a Cheating and Plagiarism Pledge: https://unexpected-box-0c1.notion.site/00a-Cheating-and-Plagiarism-Pledge-f340d7102a4d4173bbb3b8b31a1fff62
+
