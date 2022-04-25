@@ -3,8 +3,8 @@
 Team Members:
 1. Chris Wu         cwu213@my.bcit.ca
 2. Curtis Chao      cchao38@my.bcit.ca
-3. Member 3
-4. 
+3. Jonathan Liu     jliu436@my.bcit.ca
+4. Bo Zhou          bzhou24@my.bcit.ca
 
 ===================================================================
 
