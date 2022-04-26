@@ -44,15 +44,15 @@ Attributions:
 
 Scrum Master:
 
-Week 1: Chris Wu
+Week 1: Chris Wu, Bo Zhou, Curtis Chao, Jonathan Liu, Chris Wu,
 
-Week 2: Bo Zhou
+Week 2: Bo Zhou, Curtis Chao, Jonathan Liu, Chris Wu, Bo Zhou
 
-Week 3: Curtis Chao
+Week 3: Curtis Chao, Jonathan Liu, Chris Wu, Bo Zhou, Curtis Chao
 
-Week 4: Jonathan Liu
+Week 4: Jonathan Liu, Chris Wu, Bo Zhou, Curtis Chao, Jonathan Liu
 
-Week 5: Chris Wu
+Week 5: Chris Wu, Bo Zhou, Curtis Chao, Jonathan Liu, Chris Wu
 
 
 
