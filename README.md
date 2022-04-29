@@ -30,13 +30,13 @@ May 27, 2022 6:00 PM - Final Checkpoint on Individual Contribution
 
 Attributions:
 
-1.
+1. Start Bootstrap
 
-2.
+2.  
 
 3.
 
-4.
+4. Greg Lim
 
 
 00a Cheating and Plagiarism Pledge: https://unexpected-box-0c1.notion.site/00a-Cheating-and-Plagiarism-Pledge-f340d7102a4d4173bbb3b8b31a1fff62
