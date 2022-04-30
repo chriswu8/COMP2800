@@ -6,6 +6,9 @@ Team Members:
 3. Jonathan Liu     jliu436@my.bcit.ca
 4. Bo Zhou          bzhou24@my.bcit.ca
 
+Client: 
+1. Chris Wiebe      chris_wiebe@bcit.ca
+
 ===================================================================
 
 Upcoming Due Dates (subject to change):
