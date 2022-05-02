@@ -13,13 +13,24 @@ Client:
 
 Upcoming Due Dates (subject to change):
 
-Apr 29, 2022 6:00 PM - Quiz 1 (sprint 1 individual retrospective)
+May 2, 2022 6:00 PM - Project Proposal
 
-Apr 29, 2022 11:59 PM - Cheating and plagiarism pledge (Assignment)
+May 2, 2022 11:59 PM - Sprint Planning
 
 May 4, 2022 6:00 PM - Git Quiz
 
 May 6, 2022 6:00 PM - Quiz 2 (sprint 2 individual retrospective)
+
+May 6, 2022 6:00 PM - Git Workflow Assignment
+
+May 6, 2022 6:00 PM - Responsisve web template that supports login/logout, redirect, sessions
+
+May 6, 2022 6:00 PM - Github creation & workflow assignment
+
+May 6, 2022 6:00 PM - Wireframes
+
+May 6, 2022 6:00 PM - Team retrospective
+
 
 May 13, 2022 11:59 PM - Quiz 3 (sprint 3 individual retrospective)
 
